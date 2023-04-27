@@ -1,4 +1,3 @@
 # Titanic - Machine Learning from Disaster
 
-This notebook was made for Kaggle Competition purposes.
-In this version the score is 77%
+This notebook was created for the Titanic Kaggle competition. In this version, the score is 77%.
